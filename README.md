@@ -18,4 +18,4 @@ I found that the majority of the cards are the monster cards then spell and trap
 I tried to plot a story throughout the presentation to better communicate findings and to develop better visuals the understand the simplfy the data. So I started with simple visuals to explain our data fields and then gradually increase the graph complexity and dimensionality.
 
 ## View Key Insights
-View from [here] (/publish/yugioh_explain.slides.html)
+View from [HERE](/publish/yugioh_explain.slides.html)
